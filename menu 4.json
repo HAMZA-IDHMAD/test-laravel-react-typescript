@@ -1,0 +1,406 @@
+{
+  "shopId": "s001",
+  "shopName": "Bistro Parisien",
+  "products": [
+    {
+      "id": 101,
+      "name": "Menu Burger Classique",
+      "description": "Bœuf, cheddar, frites maison",
+      "price": 12.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 25
+    },
+    {
+      "id": 102,
+      "name": "Burger Double Fromage",
+      "description": "Deux steaks, double cheddar, sauce maison",
+      "price": 14.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 18
+    },
+    {
+      "id": 103,
+      "name": "Poulet Rôti Herbes",
+      "description": "Cuisses de poulet, herbes de Provence",
+      "price": 13.2,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 12
+    },
+    {
+      "id": 104,
+      "name": "Steak Frites",
+      "description": "Rumsteck 180g, frites croustillantes",
+      "price": 16.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 9
+    },
+    {
+      "id": 105,
+      "name": "Fish & Chips",
+      "description": "Cabillaud pané, sauce tartare",
+      "price": 13.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 0
+    },
+    {
+      "id": 106,
+      "name": "Pâtes Carbonara",
+      "description": "Crème, lardons, parmesan",
+      "price": 11.8,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 34
+    },
+    {
+      "id": 107,
+      "name": "Pâtes Bolognaise",
+      "description": "Sauce tomate bœuf mijotée",
+      "price": 11.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 22
+    },
+    {
+      "id": 108,
+      "name": "Curry de Légumes",
+      "description": "Lait de coco, curry doux, riz basmati",
+      "price": 10.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 15
+    },
+    {
+      "id": 109,
+      "name": "Curry de Poulet",
+      "description": "Épices douces, lait de coco, riz basmati",
+      "price": 12.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 16
+    },
+    {
+      "id": 110,
+      "name": "Pizza Margherita",
+      "description": "Tomate, mozzarella, basilic",
+      "price": 9.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 40
+    },
+    {
+      "id": 111,
+      "name": "Pizza Reine",
+      "description": "Jambon, champignons, mozzarella",
+      "price": 11.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 28
+    },
+    {
+      "id": 112,
+      "name": "Lasagnes Maison",
+      "description": "Bœuf, tomate, béchamel",
+      "price": 12.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "plats",
+      "stock": 13
+    },
+    {
+      "id": 201,
+      "name": "Salade César",
+      "description": "Poulet, parmesan, croûtons, sauce césar",
+      "price": 9.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "salades",
+      "stock": 30
+    },
+    {
+      "id": 202,
+      "name": "Salade Niçoise",
+      "description": "Thon, œuf, olives, haricots verts",
+      "price": 9.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "salades",
+      "stock": 17
+    },
+    {
+      "id": 203,
+      "name": "Salade Grecque",
+      "description": "Feta, concombre, tomate, olive",
+      "price": 8.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "salades",
+      "stock": 20
+    },
+    {
+      "id": 204,
+      "name": "Bowl Quinoa",
+      "description": "Quinoa, légumes rôtis, houmous",
+      "price": 10.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "salades",
+      "stock": 14
+    },
+    {
+      "id": 301,
+      "name": "Tenders de Poulet",
+      "description": "5 pièces, sauce barbecue",
+      "price": 6.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "snacks",
+      "stock": 35
+    },
+    {
+      "id": 302,
+      "name": "Nuggets",
+      "description": "8 pièces, ketchup ou mayo",
+      "price": 5.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "snacks",
+      "stock": 0
+    },
+    {
+      "id": 303,
+      "name": "Frites",
+      "description": "Portion généreuse",
+      "price": 3.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "snacks",
+      "stock": 100
+    },
+    {
+      "id": 304,
+      "name": "Onion Rings",
+      "description": "Rondelles d’oignon croustillantes",
+      "price": 4.2,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "snacks",
+      "stock": 42
+    },
+    {
+      "id": 305,
+      "name": "Mozzarella Sticks",
+      "description": "6 bâtonnets, sauce tomate",
+      "price": 5.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "snacks",
+      "stock": 18
+    },
+    {
+      "id": 306,
+      "name": "Hot-Dog Classique",
+      "description": "Saucisse, moutarde, ketchup",
+      "price": 4.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "snacks",
+      "stock": 21
+    },
+    {
+      "id": 401,
+      "name": "Eau Plate 50cl",
+      "description": "Eau minérale",
+      "price": 1.8,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 200
+    },
+    {
+      "id": 402,
+      "name": "Eau Gazeuse 50cl",
+      "description": "Eau pétillante",
+      "price": 2.2,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 160
+    },
+    {
+      "id": 403,
+      "name": "Soda Cola 33cl",
+      "description": "Boisson gazeuse",
+      "price": 2.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 180
+    },
+    {
+      "id": 404,
+      "name": "Soda Citron 33cl",
+      "description": "Boisson gazeuse citron",
+      "price": 2.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 150
+    },
+    {
+      "id": 405,
+      "name": "Thé Glacé Pêche 50cl",
+      "description": "Infusion glacée",
+      "price": 3.2,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 130
+    },
+    {
+      "id": 406,
+      "name": "Jus d’Orange 33cl",
+      "description": "Pur jus",
+      "price": 3.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 90
+    },
+    {
+      "id": 407,
+      "name": "Limonade Maison 50cl",
+      "description": "Citron, menthe",
+      "price": 3.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 70
+    },
+    {
+      "id": 408,
+      "name": "Café Espresso",
+      "description": "Court, intense",
+      "price": 1.8,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 300
+    },
+    {
+      "id": 409,
+      "name": "Cappuccino",
+      "description": "Café, lait mousseux",
+      "price": 2.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 120
+    },
+    {
+      "id": 410,
+      "name": "Chocolat Chaud",
+      "description": "Onctueux",
+      "price": 3.2,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "boissons",
+      "stock": 80
+    },
+    {
+      "id": 501,
+      "name": "Tiramisu",
+      "description": "Café, mascarpone, cacao",
+      "price": 4.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 25
+    },
+    {
+      "id": 502,
+      "name": "Fondant au Chocolat",
+      "description": "Cœur coulant",
+      "price": 4.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 18
+    },
+    {
+      "id": 503,
+      "name": "Cheesecake Fruits Rouges",
+      "description": "Coulis acidulé",
+      "price": 4.8,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 14
+    },
+    {
+      "id": 504,
+      "name": "Crème Brûlée",
+      "description": "Vanille, caramel croquant",
+      "price": 4.6,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 12
+    },
+    {
+      "id": 505,
+      "name": "Mousse au Chocolat",
+      "description": "Chocolat noir 70%",
+      "price": 4.2,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 0
+    },
+    {
+      "id": 506,
+      "name": "Tarte aux Pommes",
+      "description": "Pâte fine, compote maison",
+      "price": 4.5,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 10
+    },
+    {
+      "id": 507,
+      "name": "Glace 2 Boules",
+      "description": "Choix parfums",
+      "price": 3.9,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 40
+    },
+    {
+      "id": 508,
+      "name": "Salade de Fruits",
+      "description": "Fruits de saison",
+      "price": 3.8,
+      "currency": "EUR",
+      "image_url": "https://placehold.co/600x400?text=Menu",
+      "category": "desserts",
+      "stock": 22
+    }
+  ]
+}
